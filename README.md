@@ -1,9 +1,5 @@
 <h1 align="center"> Jogo da adivinhação 🔮 </h1>
 
-<p align="center">
-Esse foi o primeiro projeto que fiz.  
-Produzido graças à RocketSeat 🚀
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
