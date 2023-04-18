@@ -1,4 +1,4 @@
-<h1 align="center"> Guessing Game 🔮 </h1>
+<h1 align="center"> guessing game 🔮 </h1>
 
 💻 Project
 
