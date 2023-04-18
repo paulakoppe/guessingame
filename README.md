@@ -1,27 +1,19 @@
-<h1 align="center"> Jogo da adivinhação 🔮 </h1>
+<h1 align="center"> Guessing Game 🔮 </h1>
 
+💻 Project
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
+This project was developed with the following technologies:
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
 - JavaScript
-- Git e Github
-- Figma
+- HTML and CSS
+- Git and Github
 
-## 💻 Projeto
-
-Joguinho de adivinhar números
-
-- [Acesse o projeto finalizado, online](https://paulakoppe.github.io/guessingame/)
+- [Access the finished project online](https://paulakoppe.github.io/guessingame/)
 
 ---
+Made with ♥ by paula koppe
 
-Feito com ♥ por paula koppe
+
+
+
+
